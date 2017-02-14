@@ -12,7 +12,7 @@ will need to install:
 	3. Matplotlib
 	4. Scikit-learn
 
-You can pip install them individually, or download Anaconda and get all relevant scientific computing
+You can pip install them individually (or run `pip install -r requirements.txt` to install them all in one go). Alternatively, downloading [Anaconda](https://www.continuum.io/downloads) will enable to you to obtain all the relevant scientific computing
 libraries packaged together.
 
 To start the notebook, navigate to the folder containing the notebook and run
